@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513894498 source:c:\users\mohame\desktop\test\project final form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"Functions.h"
+
+1513894709 c:\users\mohame\desktop\test\project final form\functions.h
+	"Structures.h"
+
+1513884505 c:\users\mohame\desktop\test\project final form\structures.h
+

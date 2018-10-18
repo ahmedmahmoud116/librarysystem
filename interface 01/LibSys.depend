@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1512055055 source:c:\users\overlord\desktop\assignment 1\el projecto\libsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1512506284 source:c:\users\mohame\desktop\real_project\libsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"functions.h"
+
+1512590178 c:\users\mohame\desktop\real_project\libsys\functions.h
+	"struct.h"
+
+1512590141 c:\users\mohame\desktop\real_project\libsys\struct.h
+
+1512554218 source:c:\users\lenovo\desktop\new folder (3)\libsys-mars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"functions.h"
+
+1512554218 c:\users\lenovo\desktop\new folder (3)\libsys-mars\functions.h
+	"struct.h"
+
+1512554218 c:\users\lenovo\desktop\new folder (3)\libsys-mars\struct.h
+
+1513941606 source:c:\users\lenovo\desktop\new folder\libsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1513984285 c:\users\lenovo\desktop\new folder\libsys\functions.h
+	"struct.h"
+
+1513941606 c:\users\lenovo\desktop\new folder\libsys\struct.h
+
+1513665172 source:c:\users\user\desktop\new folder\libsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"functions.h"
+
+1513671558 c:\users\user\desktop\new folder\libsys\functions.h
+	"struct.h"
+
+1513662743 c:\users\user\desktop\new folder\libsys\struct.h
+
+1513974992 source:c:\users\mohame\desktop\new folder (6)\libsys-earth\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1513977312 c:\users\mohame\desktop\new folder (6)\libsys-earth\functions.h
+	"struct.h"
+
+1513974992 c:\users\mohame\desktop\new folder (6)\libsys-earth\struct.h
+
+1513941606 source:c:\users\lenovo\desktop\new folder (6)\libsys-mars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1513977761 c:\users\lenovo\desktop\new folder (6)\libsys-mars\functions.h
+	"struct.h"
+
+1513941606 c:\users\lenovo\desktop\new folder (6)\libsys-mars\struct.h
+
+1513984393 source:c:\users\mohame\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1514025887 c:\users\mohame\desktop\final project\functions.h
+	"struct.h"
+
+1513984393 c:\users\mohame\desktop\final project\struct.h
+

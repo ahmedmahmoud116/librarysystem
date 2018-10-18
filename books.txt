@@ -1,0 +1,5 @@
+9-999,programming,education,dr ahmed,ahmed.inc,5,5,1999,11,11,1
+6-789,physics,modern physics,dr mandor,hany.inc,7,8,1800,12,12,1
+7-896-12,Programming,c-prog,dr hamdy,16,16,7,2000,10,9,1
+894-4,English,entertainment,dr heba,harry.inc,9,10,1807,10,8,2
+8-888,history,education,dr abdelazim,khaled.inc,6,5,1980,10,9,2

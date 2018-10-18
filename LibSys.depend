@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1514057329 source:c:\users\mohame\desktop\final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1514059358 c:\users\mohame\desktop\final 2\functions.h
+	"struct.h"
+
+1513990605 c:\users\mohame\desktop\final 2\struct.h
+
+1514061430 source:c:\users\lenovo\desktop\final project\libsys-mars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+	"ctype.h"
+
+1514063243 c:\users\lenovo\desktop\final project\libsys-mars\functions.h
+	"struct.h"
+
+1514023400 c:\users\lenovo\desktop\final project\libsys-mars\struct.h
+
+1514061430 source:c:\users\lenovo\desktop\project library system\final project\libsys-mars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+	"ctype.h"
+
+1514063243 c:\users\lenovo\desktop\project library system\final project\libsys-mars\functions.h
+	"struct.h"
+
+1514023400 c:\users\lenovo\desktop\project library system\final project\libsys-mars\struct.h
+

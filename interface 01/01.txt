@@ -1,0 +1,63 @@
+Fuction
+
+ 1- insert a new book
+store 
+*title   *author   *publisher    * ISBN
+*date of publication    *number of copies 
+*catergory
+
+  2- search a book
+   *book Tittle ,author name , ISBN , Category 
+ =list of Book
+
+
+ 3- Add new Copy 
+   *ISBN
+   *number of copies
+   *update the list ( No Negative Number)
+
+4- Delete Book
+
+ *ISBN Delete from system (book List)
+
+Member Transactions
+ 
+5- Registration ( Add new Member)
+
+Entry:
+ 
+*First name *last name  *95314(Number of Member)   *Address 1-number of street  2-Zone 3-City 
+
+*age     *email
+
+6-Borrowing 
+
+* ISBN OF Book                      * User ID (95314)      *date   *date of return   ====> separate file 
+*(books --)                     *Member Cant Borrow more than 3 Books at a time
+
+
+7-returning book
+
+
+* ISBN OF Book                      * User ID (95314)      *date   *return date   *Date of Return
+* (books ++)
+
+Administrative Actions
+
+8-remove member 
+Must sure that this sure  doesnt have any borrowed books 
+
+9-overdue books
+
+List Of books that were borrowed and thier return date has been passed without retuning it back -should be available for system
+
+10- Most Popular Books
+
+
+List of 5 Books title should be printed at the beginning of program ( Most Borrowed)
+
+
+
+
+You should deliver a report that contains description for your work, sample runs for the program, user manual (how to use the system), 
+and main algorithms used (search algorithm, sort algorithm) using flowchart or pseudocode.
